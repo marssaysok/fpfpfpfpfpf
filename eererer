@@ -1,0 +1,6 @@
+print("Loaded script executed successfully")
+
+local fps = 999
+if setfpscap then
+setfpscap(fps)
+end
